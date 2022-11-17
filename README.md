@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafeeq78301599" target="blank"><img src="https://img.shields.io/twitter/follow/rafeeq78301599?logo=twitter&style=for-the-badge" alt="rafeeq78301599" /></a> </p>
 
-- 💬 Ask me about **Reactjs, Javascript, Python, Sofware Engineering, Web3**
+- 💬 Ask me about **Reactjs, Javascript, Nextjs, tailwind CSS,  Sofware Engineering,**
 
 - 📫 How to reach me **rafeeqsyedamjad@gmail.com**
 

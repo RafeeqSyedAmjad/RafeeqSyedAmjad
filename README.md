@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rafeeq78301599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafeeq78301599" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafeeq-syed-amjad-a0b64b175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafeeq-syed-amjad-a0b64b175" height="30" width="40" /></a>
+<a href="[https://twitter.com/rafeeq78301599](https://twitter.com/RafeeqSyedAmjad)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafeeq78301599" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rafeeq-syed-amjad-a0b64b175](https://www.linkedin.com/in/RafeeqSyedAmjad/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafeeq-syed-amjad-a0b64b175" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rafeeqsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafeeqsyed" height="30" width="40" /></a>
 </p>
 

@@ -1,17 +1,16 @@
-## Hey 👋 ,  I'm Abhishek!
+## Hey 👋 ,  I'm Rafeeq!
 
 ### About Me 
 
-👨‍💻&nbsp; I’m currently working on a social media app - Circle. <br/>
-✌️&nbsp; I build web apps using ReactJS, Redux Toolkit, Firebase & Tailwind CSS.<br/>
-🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & DevOps.<br/>
-⚡&nbsp; Fun fact: I prefer tea while coding & reading books.
+👨‍💻&nbsp; I’m currently working on a ecommerce media app - Circle. <br/>
+✌️&nbsp; I build web apps using  NextJS, ReactJS, Redux Toolkit, Recoil, Firebase & Tailwind CSS.<br/>
+🎯&nbsp; 2022 Goals: Get a frontend developer job (remote).<br/>
 
-## Experience
+<!-- ## Experience
 ### Freelancer <br/>
 ```React | Gatsby | GraphQL | CMS```
 - Worked on e-commerce web apps & landing pages.
-- Delivered an e-commerce app from wire-framing to CI/CD integration in 6 days.
+- Delivered an e-commerce app from wire-framing to CI/CD integration in 6 days. -->
 
 ## Projects
 [code prime - video library app](https://codeprime.netlify.app/)
@@ -41,25 +40,24 @@
 - A lightweight CSS framework for building fast and flexible interfaces using pre-defined style classes,
 built with HTML, CSS & JavaScript.
 
-## Accomplishments
+<!-- ## Accomplishments
 <b>Blue Wallet - React Native app</b>
 - Users can manage their monthly expenses with a detailed overview of any particular month.
 - Got 3.5k+ downloads with a 4.2 average rating on the Google play store.
 
-<b>Hacktoberfest - 2019 & 2020</b>
+<b>Hacktoberfest - 2019 & 2020</b> -->
 
 ## Languages and Frameworks
-`JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest`
+`JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest` `Nextjs` 
 
 ### Connect with me
 
 - [Twitter][twitter]
 - [LinkedIn][linkedin]
-- [Instagram][instagram]
+
 
 <br />
 
 [website]: https://abhishekgautam.netlify.app
-[twitter]: https://twitter.com/helloAbhishekk
-[instagram]: https://instagram.com/abhishekgautam.ig
-[linkedin]: https://www.linkedin.com/in/abhishek-gautam-54684a167/
+[twitter]: https://twitter.com/RafeeqSyedAmjad
+[linkedin]: https://www.linkedin.com/in/rafeeqsyedamjad/

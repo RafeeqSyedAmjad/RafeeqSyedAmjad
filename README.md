@@ -26,7 +26,7 @@
 - Features include Singup, Login, Logout, uploading a reel, liking, commenting, the following feed, and Profile
 page.
 
-[Resume Builder]https://resume-builder-3644b.web.app/)
+[Resume Builder](https://resume-builder-3644b.web.app/)
 - In this app, a user can make their resume by selecting a template and adding their data.
 - Frontend is made using Reactjs and Sass is used for styling. Redux is used for state management for the user’s data.
 - There are multiple design templates for the resume.

@@ -49,6 +49,12 @@ built with HTML, CSS & JavaScript. -->
   
 <b>Hacktoberfest - 2019 & 2020</b> -->
 
+## Hackathons
+[ApiAsset - Get collective list of free APIs for use in software and web development. ](https://api-asset.vercel.app/)
+-Participated in Moonshot Hackathon by roc8.careers, powered by RequestlyIO.
+-Theme of the hackathon: Web Development Tooling
+-As a developer, finding public APIs for my next project was always difficult. So I built ApiAsset, which shows the collective list of free Apis for different categories. 
+
 ## Languages and Frameworks
 `JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest` `Nextjs` 
 

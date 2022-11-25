@@ -16,8 +16,8 @@
 [TwitGenZ - Social Media App for Genz](https://twit-genz.vercel.app/)
 - A responsive web app built with Nextjs, Javascript, Tailwind, Recoil, Firebase v9.  
 - As Genz dislikes special characters (!, ?, / ), there will be no special characters (!, ?, / ).
--Users can post any message/tweet which may contain text, emoji’s, photos.
--Users can like/Dislike the posts, delete the post, comment on different posts.
+- Users can post any message/tweet which may contain text, emoji’s, photos.
+- Users can like/Dislike the posts, delete the post, comment on different posts.
 
 [Enreel‑ Video Sharing App](https://enreel.vercel.app/)
 - Created a Video sharing Web Application.

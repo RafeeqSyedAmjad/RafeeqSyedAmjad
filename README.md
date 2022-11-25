@@ -13,38 +13,40 @@
 - Delivered an e-commerce app from wire-framing to CI/CD integration in 6 days. -->
 
 ## Projects
-[code prime - video library app](https://codeprime.netlify.app/)
-- A responsive web app built with React & mock backend.
-- Users can watch videos, like/dislike, take notes, manage playlists/watch later/history.
-- Users can search for videos by keyword & filter them using tags.
-- Used the JWT for authentication.
+[TwitGenZ - Social Media App for Genz](https://twit-genz.vercel.app/)
+- A responsive web app built with Nextjs, Javascript, Tailwind, Recoil, Firebase v9.  
+- As Genz dislikes special characters (!, ?, / ), there will be no special characters (!, ?, / ).
+-Users can post any message/tweet which may contain text, emoji’s, photos.
+-Users can like/Dislike the posts, delete the post, comment on different posts.
 
-[circle - social media app](https://circle-social.netlify.app/)
-- A responsive web app built with React, Redux Toolkit & Tailwind CSS.
-- Users can create/edit/delete a post, also like/dislike, comment & bookmark the post.
-- Users can see posts on the feed & filter them by trending, recent & oldest.
-- Users can follow/unfollow, edit profile info, upvote/downvote comments, and login/signup.
+[Enreel‑ Video Sharing App](https://enreel.vercel.app/)
+- Created a Video sharing Web Application.
+- In this app, user can make their profile, upload a reel/video and can view other users’ posts.
+- The frontend is developed on Reactjs and the backend on Firebase, Material Ui was used to create the user interface.
+- Features include Singup, Login, Logout, uploading a reel, liking, commenting, the following feed, and Profile
+page.
 
-[nextstore - e-commerce app](https://nextstore-beta.netlify.app/)
-- A responsive web app built with React, mock backend & Razorpay checkout.
-- Users can search & filter products by keyword, categories, brands, price, rating & cash on delivery.
-- Users can add/remove products to/from wishlist & cart, update quantity, apply coupons & checkout.
-- Featured products section, single product page & authentication using JWT.
+[Resume Builder]https://resume-builder-3644b.web.app/)
+- In this app, a user can make their resume by selecting a template and adding their data.
+- Frontend is made using Reactjs and Sass is used for styling. Redux is used for state management for the user’s data.
+- There are multiple design templates for the resume.
+- Resume builder with Signup, Login, and Logout Authentication.
+- User can download resumes in PDF format or save them for later.
 
-[kool quiz - quiz app](https://koolquizz.netlify.app/)
+<!-- [kool quiz - quiz app](https://koolquizz.netlify.app/)
 - A responsive web app built with React, TypeScript & Firebase.
 - Users can play a quiz that has MCQ-based questions, see the rules & final score with correct answers.
 - Uses Firestore for database & Firebase Auth for email/password-based login/signup.
 
 [moment ui](https://momentui.netlify.app/)
 - A lightweight CSS framework for building fast and flexible interfaces using pre-defined style classes,
-built with HTML, CSS & JavaScript.
+built with HTML, CSS & JavaScript. -->
 
 <!-- ## Accomplishments
 <b>Blue Wallet - React Native app</b>
 - Users can manage their monthly expenses with a detailed overview of any particular month.
 - Got 3.5k+ downloads with a 4.2 average rating on the Google play store.
-
+  
 <b>Hacktoberfest - 2019 & 2020</b> -->
 
 ## Languages and Frameworks

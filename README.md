@@ -2,7 +2,7 @@
 
 ### About Me 
 
-👨‍💻&nbsp; I’m currently working on a ecommerce media app - Circle. <br/>
+👨‍💻&nbsp; I’m currently working on a ecommerce  app - Apple Store. <br/>
 ✌️&nbsp; I build web apps using  NextJS, ReactJS, Redux Toolkit, Recoil, Firebase & Tailwind CSS.<br/>
 🎯&nbsp; 2022 Goals: Get a frontend developer job (remote).<br/>
 

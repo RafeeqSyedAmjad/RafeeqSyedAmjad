@@ -1,24 +1,65 @@
-<h1 align="center">Hi 👋, I'm Rafeeq Syed Amjad</h1>
-<h3 align="center">I'm a FrontEnd developer from India.</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## Hey 👋 ,  I'm Abhishek!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafeeqsyedamjad&label=Profile%20views&color=0e75b6&style=flat" alt="rafeeqsyedamjad" /> </p>
+### About Me 
 
-<p align="left"> <a href="https://twitter.com/rafeeq78301599" target="blank"><img src="https://img.shields.io/twitter/follow/rafeeq78301599?logo=twitter&style=for-the-badge" alt="rafeeq78301599" /></a> </p>
+👨‍💻&nbsp; I’m currently working on a social media app - Circle. <br/>
+✌️&nbsp; I build web apps using ReactJS, Redux Toolkit, Firebase & Tailwind CSS.<br/>
+🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & DevOps.<br/>
+⚡&nbsp; Fun fact: I prefer tea while coding & reading books.
 
-- 💬 Ask me about **Reactjs, Javascript, Nextjs, tailwind CSS,  Sofware Engineering,**
+## Experience
+### Freelancer <br/>
+```React | Gatsby | GraphQL | CMS```
+- Worked on e-commerce web apps & landing pages.
+- Delivered an e-commerce app from wire-framing to CI/CD integration in 6 days.
 
-- 📫 How to reach me **rafeeqsyedamjad@gmail.com**
+## Projects
+[code prime - video library app](https://codeprime.netlify.app/)
+- A responsive web app built with React & mock backend.
+- Users can watch videos, like/dislike, take notes, manage playlists/watch later/history.
+- Users can search for videos by keyword & filter them using tags.
+- Used the JWT for authentication.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w5L6joczCR8pu8CGPArWZVmVdV1ARjMf/view?usp=sharing](https://drive.google.com/file/d/1w5L6joczCR8pu8CGPArWZVmVdV1ARjMf/view?usp=sharing)
+[circle - social media app](https://circle-social.netlify.app/)
+- A responsive web app built with React, Redux Toolkit & Tailwind CSS.
+- Users can create/edit/delete a post, also like/dislike, comment & bookmark the post.
+- Users can see posts on the feed & filter them by trending, recent & oldest.
+- Users can follow/unfollow, edit profile info, upvote/downvote comments, and login/signup.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://twitter.com/rafeeq78301599](https://twitter.com/RafeeqSyedAmjad)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafeeq78301599" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/rafeeq-syed-amjad-a0b64b175](https://www.linkedin.com/in/RafeeqSyedAmjad/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafeeq-syed-amjad-a0b64b175" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rafeeqsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafeeqsyed" height="30" width="40" /></a>
-</p>
+[nextstore - e-commerce app](https://nextstore-beta.netlify.app/)
+- A responsive web app built with React, mock backend & Razorpay checkout.
+- Users can search & filter products by keyword, categories, brands, price, rating & cash on delivery.
+- Users can add/remove products to/from wishlist & cart, update quantity, apply coupons & checkout.
+- Featured products section, single product page & authentication using JWT.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[kool quiz - quiz app](https://koolquizz.netlify.app/)
+- A responsive web app built with React, TypeScript & Firebase.
+- Users can play a quiz that has MCQ-based questions, see the rules & final score with correct answers.
+- Uses Firestore for database & Firebase Auth for email/password-based login/signup.
 
+[moment ui](https://momentui.netlify.app/)
+- A lightweight CSS framework for building fast and flexible interfaces using pre-defined style classes,
+built with HTML, CSS & JavaScript.
+
+## Accomplishments
+<b>Blue Wallet - React Native app</b>
+- Users can manage their monthly expenses with a detailed overview of any particular month.
+- Got 3.5k+ downloads with a 4.2 average rating on the Google play store.
+
+<b>Hacktoberfest - 2019 & 2020</b>
+
+## Languages and Frameworks
+`JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest`
+
+### Connect with me
+
+- [Twitter][twitter]
+- [LinkedIn][linkedin]
+- [Instagram][instagram]
+
+<br />
+
+[website]: https://abhishekgautam.netlify.app
+[twitter]: https://twitter.com/helloAbhishekk
+[instagram]: https://instagram.com/abhishekgautam.ig
+[linkedin]: https://www.linkedin.com/in/abhishek-gautam-54684a167/

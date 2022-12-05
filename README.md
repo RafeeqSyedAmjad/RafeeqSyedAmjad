@@ -19,7 +19,7 @@
 - Users can post any message/tweet which may contain text, emoji’s, photos.
 - Users can like/Dislike the posts, delete the post, comment on different posts.
 
-[Equal Store ‑ Ecommerce App ]((https://equal7.netlify.app/))
+[Equal Store ‑ Ecommerce App ](https://equal7.netlify.app/)
 - A responsive web app built with Nextjs, Typescript, Redux, Tailwind CSS.
 - Stripe’s API to manage payments and checkout.
 - Using Sanity Studio as our content management system.
@@ -59,11 +59,19 @@ built with HTML, CSS & JavaScript. -->
   
 <b>Hacktoberfest - 2019 & 2020</b> -->
 
-## Hackathons
+## Hackathons and Extracurricular Activity
 [ApiAsset - Get collective list of free APIs for use in software and web development. ](https://api-asset.vercel.app/)
 - Participated in Moonshot Hackathon by roc8.careers, powered by RequestlyIO.
 - Theme of the hackathon: Web Development Tooling
 - As a developer, finding public APIs for my next project was always difficult. So I built ApiAsset, which shows the collective list of free Apis for different categories. 
+
+[Technical Blogs - I write about my experiences and learnings.](https://rafeeq.vercel.app/writings)
+- Types and Coercion in JS.
+- Debouncing and Throttling in JavaScript.
+- Introduction to Functional Programming.
+- How Search System Works Part I.
+
+
 
 ## Languages and Frameworks
 `JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest` `Nextjs` 

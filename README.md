@@ -72,7 +72,7 @@ built with HTML, CSS & JavaScript. -->
 
 - [Twitter][twitter]
 - [LinkedIn][linkedin]
-- [Personal Portfolio][website]: https://rafeeq.vercel.app/]
+- [Personal Portfolio][website]
 
 
 <br />

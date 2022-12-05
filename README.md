@@ -2,7 +2,7 @@
 
 ### About Me 
 
-👨‍💻&nbsp; I’m currently working on a ecommerce  app - Apple Store. <br/>
+👨‍💻&nbsp; I’m currently working on a Media player app -  Auditica. <br/>
 ✌️&nbsp; I build web apps using  NextJS, ReactJS, Redux Toolkit, Recoil, Firebase & Tailwind CSS.<br/>
 🎯&nbsp; 2022 Goals: Get a frontend developer job (remote).<br/>
 
@@ -18,6 +18,16 @@
 - As Genz dislikes special characters (!, ?, / ), there will be no special characters (!, ?, / ).
 - Users can post any message/tweet which may contain text, emoji’s, photos.
 - Users can like/Dislike the posts, delete the post, comment on different posts.
+
+[Equal Store ‑ Ecommerce App ]((https://equal7.netlify.app/))
+- A responsive web app built with Nextjs, Typescript, Redux, Tailwind CSS.
+- Stripe’s API to manage payments and checkout.
+- Using Sanity Studio as our content management system.
+- With good design and cool animation, this is a production‑level build.
+- User’s can filter products by different categories.
+- Users can add/remove products to/from cart and checkout.
+- Featured products section, for Authentication Login and Logout NextAuth is used.
+- Users login information is stored in sanity cms, connected sanity adapter using nextauth with sanity cms.
 
 [Enreel‑ Video Sharing App](https://enreel.vercel.app/)
 - Created a Video sharing Web Application.
@@ -66,6 +76,6 @@ built with HTML, CSS & JavaScript. -->
 
 <br />
 
-[website]: https://abhishekgautam.netlify.app
+[website]: https://rafeeq.vercel.app/
 [twitter]: https://twitter.com/RafeeqSyedAmjad
 [linkedin]: https://www.linkedin.com/in/rafeeqsyedamjad/

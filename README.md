@@ -74,7 +74,7 @@ built with HTML, CSS & JavaScript. -->
 
 
 ## Languages and Frameworks
-`JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest` `Nextjs` 
+`JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest` `Nextjs` `Recoil`
 
 ### Connect with me
 

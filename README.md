@@ -3,7 +3,7 @@
 ### About Me 
 
 <!-- 👨‍💻&nbsp; I’m currently working on a Media player app -  Auditica. <br/> -->
-✌️&nbsp; I build web apps using  NextJS, ReactJS, Redux Toolkit, Recoil, Firebase, Mern Stack & Tailwind CSS.<br/>
+✌️&nbsp; I build web apps using  NextJS, ReactJS, Javascript, Typescript, Redux Toolkit, Recoil, Firebase, Mern Stack & Tailwind CSS.<br/>
 <!---🎯&nbsp; 2023 Goals: Get a frontend developer job.<br/> --->
 
 <!-- ## Experience

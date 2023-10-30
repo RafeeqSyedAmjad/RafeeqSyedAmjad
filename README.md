@@ -5,7 +5,7 @@
 <!-- 👨‍💻&nbsp; I’m currently working on a Media player app -  Auditica. <br/> -->
 ✌️&nbsp; I build web apps using  NextJS, ReactJS, Javascript, Typescript, Redux Toolkit, Recoil, Firebase, Mern Stack & Tailwind CSS.<br/>
 <!-- 🎯&nbsp; 2023 Goals: Get a frontend developer job.<br/> --->
-In my Free time, I learn, build and explore new technologies and frameworks like Framer Motion, GSAP, Three.js, UX design, WebGL, OpenAi Api, D3.js, Web Sockets, WebRTC, Socket.io and much more.
+<!-- In my Free time, I learn, build and explore new technologies and frameworks like Framer Motion, GSAP, Three.js, UX design, WebGL, OpenAi Api, D3.js, Web Sockets, WebRTC, Socket.io and much more. -->
 
 <!-- ## Experience
 ### Freelancer <br/>

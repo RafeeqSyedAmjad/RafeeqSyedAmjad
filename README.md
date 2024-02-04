@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rafeeqsyedamjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rafeeqsyedamjad" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/rafeeqsyedamjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rafeeqsyedamjad" height="30" width="40" /></a> -->
 <a href="https://twitter.com/rafeeqsyedamjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafeeqsyedamjad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafeeqsyedamjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafeeqsyedamjad" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rafeeqsyedamjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rafeeqsyedamjad" height="30" width="40" /></a>
+<!-- <a href="https://hashnode.com/@rafeeqsyedamjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rafeeqsyedamjad" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/rafeeqsyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafeeqsyed" height="30" width="40" /></a>
 </p>
 

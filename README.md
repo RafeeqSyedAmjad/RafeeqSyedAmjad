@@ -1,6 +1,6 @@
 ## Hey,  I'm Rafeeq Syed Amjad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Currently, I am working at AtoZeeSolutions, as a front-end engineer. 
+Currently, I am working at AtoZeeSolutions, as a Front-end engineer. 
 
 [![](https://visitcount.itsvg.in/api?id=RafeeqSyedAmjad&label=Profile%20Views&color=7&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafeeqSyedAmjad&show_icons=true&locale=en&layout=compact" alt="RafeeqSyedAmjad"/></p>-->
